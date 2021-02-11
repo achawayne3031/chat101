@@ -1,0 +1,156 @@
+
+.bg{
+    background-image: url(../img/78887677.jpg);
+    background-size: cover;
+    height: 700px;
+    position: fixed;
+    width: 100%;
+}
+
+
+.title{
+    font-weight: bold;
+}
+
+
+.label-text{
+    font-size: 15px;
+    display: block;
+    font-weight: bold;
+}
+
+.sign-input{
+    padding: 10px;
+    border: 0px;
+    border-bottom: 2px solid green;
+    font-size: 15px;
+    background-color: transparent;
+    width: 100%;
+    border-radius: 0px;
+}
+
+.input-gender{
+    font-size: 15px;
+}
+
+.gender-err{
+    display: block;
+    color: #dc3545;
+    font-size: 13px !important;
+}
+
+.img-avatar{
+    width: 40%;
+    height: 100px;
+}
+
+.session-username-avatar{
+    text-transform: capitalize;
+
+}
+
+.chat-panel{
+    background-image: url(../img/67767675656.png);
+    height: 440px;
+}
+
+.reg-body-col{
+    border-radius: 10px;
+    box-shadow: 2px 1px 2px grey;
+}
+
+.invalid-feedback{
+    font-size: 13px !important;
+}
+
+.alert-text{
+    font-size: 13px;
+}
+
+
+.reg-link{
+    font-size: 13px;
+    display: block;
+}
+
+
+.chat-room-body{
+    background-image: url(../img/566767776.jpg);
+} 
+
+.ul-chat{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.li-chat{
+    padding: 15px;
+    border-bottom: 1px solid cyan;
+}
+
+.li-chat:hover{
+    background-color: cornsilk;
+}
+
+.user-chat-bg{
+    background-color: cornsilk;
+    border-radius: 10px;
+}
+
+.receiver-chat-bg{
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+.section-bg{
+    background-color: white;
+    height: 500px;
+    overflow: auto;
+}
+
+.chat-user-links{
+    color: black;
+}
+
+.chat-user-links:hover{
+    text-decoration: none;
+    color: black;
+}
+
+
+#chat{
+   
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  
+}
+
+
+.chat-log-table{
+    height: 420px;
+    overflow: auto;
+    padding-bottom: 20px;
+}
+
+#input-body-div{
+    margin-top: -3px;
+    background-color: grey;
+    height: 60px;
+}
+
+.input-div{
+    width: 70%;
+}
+
+
